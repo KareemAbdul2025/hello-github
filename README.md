@@ -1,2 +1,2 @@
 # hello-github
-Practicing GitHub Instructions
+I'm Abdul a newbie Practicing GitHub Instructions
